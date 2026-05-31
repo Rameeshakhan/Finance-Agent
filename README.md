@@ -110,7 +110,7 @@ Memory improves UX by allowing follow-up questions like
 
 ```bash
 git clone <your-repo-url>
-cd finance_assistant
+cd Finance-Agent
 ```
 
 ### 2. Install dependencies
